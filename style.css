@@ -1,0 +1,53 @@
+body{
+    height: 500px;
+}
+
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0;
+    text-align:left;
+}
+
+.heading h3{
+    display:inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid #ffffff;
+}
+
+.bigImage{
+    width: 100%;
+}
+
+#status, #start{
+    font-size:22px;
+}
+
+.btn-grape{
+    background-color: rgb(164, 87, 236);
+    width:100%;
+}
+
+h4{
+    line-height:2;
+    margin: 0px;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+.instructionImage{
+    display: inline-block;
+    width:45%;
+}
+
+video{
+    background:url;
+    background-size:cover;
+    background-position:center;
+    padding:20px;
+}
